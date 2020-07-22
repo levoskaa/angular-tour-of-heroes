@@ -1,3 +1,7 @@
+# Code along project with the [Tour of Heroes tutorial](https://angular.io/tutorial).
+
+---
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
